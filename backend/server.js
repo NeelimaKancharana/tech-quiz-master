@@ -28,3 +28,6 @@ app.listen(PORT,() => {
     console.log(`Server is running on port ${PORT}`);
 });
 
+//  https://tech-quiz-master-f081.onrender.com - render link for backend
+
+// https://vercel.com/neelima-kancharanas-projects/tech-quiz-master/8gQWaTZYXKKPs8wtdcgQvmv6UVnm  - verel link
