@@ -2,16 +2,11 @@
 
 A full-stack MERN quiz application where users sign up, take multiple-choice quizzes on popular technologies, and track their results over time.
 
-**Live demo:** https://vercel.com/neelima-kancharanas-projects/tech-quiz-master/8gQWaTZYXKKPs8wtdcgQvmv6UVnm
+**Live demo:** https://tech-quiz-master-gamma.vercel.app
 
 > Note: the backend runs on a free Render plan, so the first request after a period of inactivity can take up to a minute while the server wakes up.
 
-## Screenshots
 
-<!-- Add 2-3 screenshots to a /screenshots folder and update the paths below -->
-| Quiz | Results |
-|------|---------|
-| ![Quiz](/home/rgukt/Pictures/Screenshot from 2026-10-10 11-49-41.png) | ![Results](/home/rgukt/Pictures/Screenshot from 2026-10-10 11-50-22.png) |
 
 ## Features
 
@@ -109,9 +104,7 @@ VITE_API_URL=https://tech-quiz-master-f081.onrender.com
 - Keeping secrets out of source code with environment variables
 - Deploying a full-stack app with Vercel, Render and MongoDB Atlas
 
-## Acknowledgements
 
-Built while following a MERN quiz tutorial by Hexagonal Digital Services, then extended and debugged on my own.
 
 ## Author
 
