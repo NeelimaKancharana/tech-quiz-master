@@ -5,7 +5,7 @@ import { sidebarStyles } from '../assets/dummyStyles';
 import questionsData from '../assets/dummydata';
 import { Award, BookOpen, CheckCircle, ChevronDown, ChevronRight, Code, Coffee, Cpu, Database, Globe, Layout, Menu, Sparkles, Star, Target, Terminal, Trophy, X, XCircle, Zap } from 'lucide-react';
 
-const API_BASE = "http://localhost:4000";
+const API_BASE = import.meta.env.VITE_API_URL || "http://localhost:4000";
 
 const Sidebar = () => {
 
